@@ -1,1 +1,1 @@
-Cognizant - week 1 solutions
+Cognizant solutions
